@@ -1,8 +1,32 @@
 {
+  "MainContainer": {
+    "description": "Auto imported from components/MainContainer.vue"
+  },
   "NuxtLogo": {
     "description": "Auto imported from components/NuxtLogo.vue"
   },
+  "SideBar": {
+    "description": "Auto imported from components/SideBar.vue"
+  },
+  "ToDo": {
+    "description": "Auto imported from components/ToDo.vue"
+  },
+  "TodoTable": {
+    "description": "Auto imported from components/TodoTable.vue"
+  },
   "Tutorial": {
     "description": "Auto imported from components/Tutorial.vue"
+  },
+  "IconMagnifierIcon": {
+    "description": "Auto imported from components/icon/MagnifierIcon.vue"
+  },
+  "TaskCreateTask": {
+    "description": "Auto imported from components/task/CreateTask.vue"
+  },
+  "TaskDeleteTask": {
+    "description": "Auto imported from components/task/DeleteTask.vue"
+  },
+  "TaskUpdateTask": {
+    "description": "Auto imported from components/task/updateTask.vue"
   }
 }
